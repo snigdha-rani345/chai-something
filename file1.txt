@@ -1,0 +1,6 @@
+this is my first file for git course
+adding more content to file two.
+
+Another marketing section added to file one.
+
+2025 is coming
